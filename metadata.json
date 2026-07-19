@@ -1,0 +1,6 @@
+{
+  "name": "Aritra Hazra Portfolio",
+  "description": "Personal portfolio website of Aritra Hazra, a B.Tech CSE (AI/ML) student showcasing projects in predictive navigation and brain-wearable sensing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
